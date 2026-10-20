@@ -64,5 +64,8 @@
 	},
 	"bugs": {
 		"url": "https://github.com/publora/n8n-nodes-publora/issues"
+	},
+	"publishConfig": {
+		"access": "public"
 	}
 }
